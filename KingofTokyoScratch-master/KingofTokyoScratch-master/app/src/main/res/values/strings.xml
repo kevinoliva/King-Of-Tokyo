@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">King of Neo Tokyo</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_turn_">Next turn</string>
+    <string name="welcome">Welcome to King of Neo Tokyo!  This is network-only, so you&amp;apos;ll need to log in to play!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="match_instructions">Type in a new word for the data in this game, then hit done.</string>
+    <string name="quick_match">Quick match</string>
+    <string name="continue_str">Continue</string>
+    <string name="guesser_prompt">This has not been set.</string>
+    <string name="clear">Clear</string>
+    <string name="done">Done</string>
+    <string name="leave">Leave</string>
+    <string name="cancel">Cancel</string>
+    <string name="finish">Finish</string>
+    <string name="welcome_to_our_skeleton_app_">Welcome to King of Neo Tokyo!</string>
+    <string name="check_games">Check games</string>
+    <string name="start_match">Start Match</string>
+    <string name="turn_counter">Turn counter</string>
+    <string name="signin_other_error">There was an issue with sign in.  Please try again later.</string>
+
+
+    <!--Copy + paste from my version-->
+
+    <string name="PlayerHeader">Large Text</string>
+    <string name="healthHeader">Health</string>
+    <string name="VictoryPointsHeader">Vic Pnt</string>
+    <string name="PlayerHeaderName">Player</string>
+    <string name="P1String">P1</string>
+    <string name="P2String">P2</string>
+    <string name="P3String">P3</string>
+    <string name="P4String">P4</string>
+    <string name="Value0String">0</string>
+    <string name="EnergyHeader">Energy</string>
+    <string name="KeepString">Keep</string>
+    <string name="buttonRollString"></string>
+    <string name="startRound">Start new Round</string>
+
+    <!--<string name="currentPlayerString">Player x\'s Turn!</string>
+    <string name="player1turn1">Player 1\'s First Roll!</string>
+    <string name="player1turn2">Player 1\'s Second Roll!</string>
+    <string name="player1turn3">Player 1\'s Last Roll!</string>
+    <string name="player2turn1">Player 2\'s First Roll!</string>
+    <string name="player2turn2">Player 2\'s Second Roll!</string>
+    <string name="player2turn3">Player 2\'s Third Roll!</string>-->
+
+    <string name="firstRoll">First Roll!</string>
+    <string name="secondRoll">Second Roll!</string>
+    <string name="thirdRoll">Last Roll!</string>
+    <string name="finishTurn">Finish My Turn</string>
+
+    <string name="outcomeOne">ONE</string>
+    <string name="outcomeTwo">TWO</string>
+    <string name="outcomeThree">THREE</string>
+    <string name="outcomeEnergy">NRGY</string>
+    <string name="outcomeHeal">HEAL</string>
+    <string name="outcomeAttack">ATK!</string>
+    <string name="askTokyo">Ask Tokyo</string>
+    <string name="promtForKing">         You have been attacked! \nDo you want to leave tokyo?</string>
+    <string name="stayString">Stay in Tokyo</string>
+    <string name="leaveTokyo">Leave Tokyo</string>
+    <string name="gameOverString">The game ended and the victor is....</string>
+    <string name="youLost"> You have been defeated, the true king is reigning Neo Tokyo now</string>
+
+</resources>
